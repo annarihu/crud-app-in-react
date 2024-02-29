@@ -1,12 +1,4 @@
-# Simple CRUD (Create Read Update Delete) in React Js.
- [![GitHub license](https://img.shields.io/badge/license-MIT-lime.svg)](https://github.com/cloud-github/reactjs-crud/blob/master/LICENSE) [![Build Status](https://travis-ci.org/cloud-github/react-redux-thunk-react-router-webpack4-eslint-loaders-pre-configured-boilerplate.svg?branch=master)](https://travis-ci.org/cloud-github/react-redux-thunk-react-router-webpack4-eslint-loaders-pre-configured-boilerplate)
-A simple CRUD application build with react, redux, redux-thunk, webpack4 followed industry standard coding pattern with production build ready.
-
-[CLICK TO SEE FRONTEND DEMO](https://reactjs-rails-crud-app.firebaseapp.com/)
-
-[RAILS BACKEND API ](https://rails-api-only.herokuapp.com/v1/macros)
- 
-[CLICK TO SEE DEMO Video](https://www.youtube.com/watch?v=yqu9Vuev6mU&t=3s)
+# CRUD in React Js.
 
 * Ready to start React Redux App
 * SASS, CSS and Image loader all configured
@@ -45,13 +37,6 @@ A simple CRUD application build with react, redux, redux-thunk, webpack4 followe
 * [Jest](https://jestjs.io/) - JavaScript Testing web frameworks.
 * [Enzyme](https://airbnb.io/enzyme/docs/api/) - Enzyme is a JavaScript Testing utility for React.
 
-## Snapshots
- 
-![alt text](https://raw.githubusercontent.com/cloud-github/reactjs-crud/master/public/images/reactjs_rails_crud1.png)
-
-![alt text](https://raw.githubusercontent.com/cloud-github/reactjs-crud/master/public/images/reactjs_rails_crud2.png)
-
-![alt text](https://raw.githubusercontent.com/cloud-github/reactjs-crud/master/public/images/reactjs_rails_crud3.png)
 
 ## Getting Started
 
@@ -133,11 +118,6 @@ You can use any backend, you like.
 
 OR, You can clone this ready made ruby on rails backend.
 
-```CLI
-git clone https://github.com/cloud-github/rails_api_only.git
-```
-
-Follow further instructions using this link.  https://github.com/cloud-github/rails_api_only.git
 
 If you like the project, please don't forget to give a star. Thanks in advance.
 
